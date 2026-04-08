@@ -5,10 +5,9 @@
 ### 1. ประกาศนียบัตร (Certificates)
 | ไฟล์ | ประเภท | ลิงก์ |
 |------|--------|-------|
-| Cisco-Networking-Academy.png | ประกาศนียบัตร | [ดูรูป](./Certificates/Cisco-Networking-Academy.png) |
+| CCNAITNUpdated20260408-31-soucnz.pdf | ประกาศนียบัตร | [ดาวน์โหลด](./Cisco-Networking-Academy/CCNAITNUpdated20260408-31-soucnz.pdf) |
 | Certificates-CCNA1_Introduction_to_Networks.png | ประกาศนียบัตร | [ดูรูป](./Certificates/Certificates-CCNA1_Introduction_to_Networks.png) |
 | Certificates-Getting_Started_with_Cisco_Packet_Tracer.png | ประกาศนียบัตร | [ดูรูป](./Certificates/Certificates-Getting_Started_with_Cisco_Packet_Tracer.png) |
-| CCNAITNUpdated20260408-31-soucnz | ประกาศนียบัตร | [ดูรูป](./Certificates/Cisco-Networking-Academy/CCNAITNUpdated20260408-31-soucnz.pdf) | 
 
 ### 2. เกรดและผลการประเมิน (Gradebook)
 | ไฟล์ | ลิงก์ |
