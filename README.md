@@ -12,12 +12,10 @@
 - Gradebook-Certificates-Getting_Started_with_Packet_Tracer.pdf
 
 ### 3. Individual Assignment
-| ไฟล์ | ประเภท | คำอธิบาย |
-|------|--------|----------|
-| Assignment1.pdf | เอกสาร | แบบฝึกหัดชุดที่ 1 |
-| Assignment2.pdf | เอกสาร | แบบฝึกหัดชุดที่ 2 |
-| Assignment3.pkt | Packet Tracer | ไฟล์จำลองเครือข่าย |
-| Assignment4.pdf | เอกสาร | แบบฝึกหัดชุดที่ 4 |
+- [Assignment 1](./Individual%20Assignment/Assignment1.pdf)
+- [Assignment 2](./Individual%20Assignment/Assignment2.pdf)
+- [Assignment 3](./Individual%20Assignment/Assignment3.pkt)
+- [Assignment 4](./Individual%20Assignment/Assignment4.pdf)
 
 ### 4. งานปฏิบัติการ LAB (LAB Assignment)
 - LAB1.pdf ถึง LAB5.pdf (รวม 5 ไฟล์)
