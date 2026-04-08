@@ -1,6 +1,5 @@
 # Cisco Networking Academy – Portfolio
 
-แฟ้มสะสมผลงานการเรียนรู้เครือข่ายเบื้องต้น (CCNA1) และการใช้งาน Cisco Packet Tracer
 
 ## เนื้อหาทั้งหมด
 
