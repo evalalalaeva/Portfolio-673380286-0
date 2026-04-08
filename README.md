@@ -5,15 +5,16 @@
 ### 1. ประกาศนียบัตร (Certificates)
 | ไฟล์ | ประเภท | ลิงก์ |
 |------|--------|-------|
-| CCNAITNUpdated20260408-31-soucnz.pdf | ประกาศนียบัตร | [ดาวน์โหลด](./Cisco-Networking-Academy/CCNAITNUpdated20260408-31-soucnz.pdf) |
-| Certificates-CCNA1_Introduction_to_Networks.png | ประกาศนียบัตร | [ดูรูป](./Certificates/Certificates-CCNA1_Introduction_to_Networks.png) |
-| Certificates-Getting_Started_with_Cisco_Packet_Tracer.png | ประกาศนียบัตร | [ดูรูป](./Certificates/Certificates-Getting_Started_with_Cisco_Packet_Tracer.png) |
+| CCNAITNUpdated20260408-31-soucnz.pdf | ประกาศนียบัตร CCNA | [เปิดไฟล์](./Certificates%20Cisco-Networking-Academy/CCNAITNUpdated20260408-31-soucnz.pdf) |
+| Certificates-CCNA1_Introduction_to_Networks.pdf | ประกาศนียบัตร CCNA1 | [เปิดไฟล์](./Certificates%20Cisco-Networking-Academy/Certificates-CCNA1_Introduction_to_Networks.pdf) |
+| Certificates-Getting_Started_with_Cisco_Packet_Tracer.pdf | ประกาศนียบัตร Packet Tracer | [เปิดไฟล์](./Certificates%20Cisco-Networking-Academy/Certificates-Getting_Started_with_Cisco_Packet_Tracer.pdf) |
+
 
 ### 2. เกรดและผลการประเมิน (Gradebook)
-| ไฟล์ | ลิงก์ |
-|------|-------|
-| Gradebook-CCNA1_Introduction_to_Networks.pdf | [CCNA: Introduction to Networks](./Gradebook/Gradebook-CCNA1_Introduction_to_Networks.pdf) |
-| Gradebook-Certificates-Getting_Started_with_Packet_Tracer.pdf | [Getting Started with Cisco Packet Tracer](./Gradebook/Gradebook-Getting_Started_with_Packet_Tracer.pdf) |
+| ไฟล์ | ประเภท | ลิงก์ |
+|------|--------|-------|
+| Gradebook-CCNA1_Introduction_to_Networks.png | เกรด CCNA1 | [ดูรูป](./Certificates%20Cisco-Networking-Academy/Gradebook-CCNA1_Introduction_to_Networks.png) |
+| Gradebook-Getting_Started_with_Cisco_Packet_Tracer.png | เกรด Packet Tracer | [ดูรูป](./Certificates%20Cisco-Networking-Academy/Gradebook-Getting_Started_with_Cisco_Packet_Tracer.png) |
 
 ### 3. Individual Assignment
 | ไฟล์ | ประเภท | ลิงก์ |
