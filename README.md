@@ -1,5 +1,15 @@
 # Cisco Networking Academy – Portfolio
 
+Individual Assignments
+
+This section contains my individual coursework:
+
+Assignment 1
+Assignment 2
+Assignment 3 (.pkt - Packet Tracer)
+Assignment 4
+
+📁 Folder: Individual Assignment
 
 ## เนื้อหาทั้งหมด
 
@@ -34,10 +44,6 @@
 - **CCNA1: Introduction to Networks** (พื้นฐานเครือข่าย)
 - **Getting Started with Cisco Packet Tracer** (การจำลองเครือข่าย)
 
-## คำแนะนำ
-- หากไม่มี Packet Tracer ให้ดาวน์โหลดจาก Cisco Networking Academy
-- ไฟล์เกรดและประกาศนียบัตรใช้เป็นหลักฐานประกอบการเรียน
-
 ---
 
-*จัดทำโดยผู้เรียน Cisco Networking Academy*
+*จัดทำโดย น.ส.พิไลพร คำเวียง รหัส 673380286-0 Section 2
