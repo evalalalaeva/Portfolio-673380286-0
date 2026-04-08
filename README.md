@@ -14,13 +14,19 @@
 ### 3. Individual Assignment
 | ไฟล์ | ประเภท | ลิงก์ |
 |------|--------|-------|
-| Assignment1.pdf | เอกสาร | [ดาวน์โหลด](./Individual%20Assignment/Assignment1.pdf) |
-| Assignment2.pdf | เอกสาร | [ดาวน์โหลด](./Individual%20Assignment/Assignment2.pdf) |
-| Assignment3.pkt | Packet Tracer | [ดาวน์โหลด](./Individual%20Assignment/Assignment3.pkt) |
-| Assignment4.pdf | เอกสาร | [ดาวน์โหลด](./Individual%20Assignment/Assignment4.pdf) |
+| Assignment1.pdf | เอกสาร | [Assignment1](./Individual%20Assignment/Assignment1.pdf) |
+| Assignment2.pdf | เอกสาร | [Assignment2](./Individual%20Assignment/Assignment2.pdf) |
+| Assignment3.pkt | Packet Tracer | [Assignment3](./Individual%20Assignment/Assignment3.pkt) |
+| Assignment4.pdf | เอกสาร | [Assignment4](./Individual%20Assignment/Assignment4.pdf) |
 
 ### 4. งานปฏิบัติการ LAB (LAB Assignment)
-- LAB1.pdf ถึง LAB5.pdf (รวม 5 ไฟล์)
+| ไฟล์ | ลิงก์ |
+|------|-------|
+| LAB1.pdf | [LAB1](./LAB%20Assignment/LAB1.pdf) |
+| LAB2.pdf | [LAB2](./LAB%20Assignment/LAB2.pdf) |
+| LAB3.pdf | [LAB3](./LAB%20Assignment/LAB3.pdf) |
+| LAB4.pdf | [LAB4](./LAB%20Assignment/LAB4.pdf) |
+| LAB5.pdf | [LAB5](./LAB%20Assignment/LAB5.pdf) |
 
 ## วิธีการเปิดไฟล์
 
