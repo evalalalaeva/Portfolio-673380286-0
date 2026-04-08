@@ -10,7 +10,10 @@
 | Certificates-Getting_Started_with_Cisco_Packet_Tracer.png | ประกาศนียบัตร | [ดูรูป](./Certificates/Certificates-Getting_Started_with_Cisco_Packet_Tracer.png) |
 
 ### 2. เกรดและผลการประเมิน (Gradebook)
-
+| ไฟล์ | ลิงก์ |
+|------|-------|
+| Gradebook-CCNA1_Introduction_to_Networks.pdf | [CCNA: Introduction to Networks](./Gradebook/Gradebook-CCNA1_Introduction_to_Networks.pdf) |
+| Gradebook-Certificates-Getting_Started_with_Packet_Tracer.pdf | [Getting Started with Cisco Packet Tracer](./Gradebook/Gradebook-Getting_Started_with_Packet_Tracer.pdf) |
 
 ### 3. Individual Assignment
 | ไฟล์ | ประเภท | ลิงก์ |
