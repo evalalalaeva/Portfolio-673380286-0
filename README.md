@@ -1,15 +1,4 @@
-# Cisco Networking Academy – Portfolio
-
-Individual Assignments
-
-This section contains my individual coursework:
-
-Assignment 1
-Assignment 2
-Assignment 3 (.pkt - Packet Tracer)
-Assignment 4
-
-📁 Folder: Individual Assignment
+# Network–Portfolio
 
 ## เนื้อหาทั้งหมด
 
@@ -22,7 +11,7 @@ Assignment 4
 - Gradebook-CCNA1_Introduction_to_Networks.pdf
 - Gradebook-Certificates-Getting_Started_with_Packet_Tracer.pdf
 
-### 3. งานที่ได้รับมอบหมายรายบุคคล (Individual Assignment)
+### 3. Individual Assignment
 | ไฟล์ | ประเภท | คำอธิบาย |
 |------|--------|----------|
 | Assignment1.pdf | เอกสาร | แบบฝึกหัดชุดที่ 1 |
